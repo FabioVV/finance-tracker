@@ -1,1 +1,10 @@
 <h1>Hello World!</h1>
+<%= button_to(
+  "Log Out",
+  destroy_user_session_path,
+  method: :delete
+) %>
+
+
+
+#https://betterprogramming.pub/devise-auth-setup-in-rails-7-44240aaed4be
