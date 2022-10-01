@@ -33,6 +33,8 @@ gem 'devise'
 
 gem 'bootstrap'
 
+gem 'devise-bootstrap-views'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
