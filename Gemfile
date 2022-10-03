@@ -35,6 +35,8 @@ gem 'bootstrap'
 
 gem 'devise-bootstrap-views'
 
+gem 'iex-ruby-client'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
